@@ -1,0 +1,128 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Tarcis/Desktop/BlueBlocksVHDL/counter
+Ecounter
+Z0 w1586466135
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Tarcis Aurelio Beche/Desktop/BlueBlocksVHDL/counter
+Z5 8cont.vhd
+Z6 Fcont.vhd
+l0
+L9
+V4QNF]@@9`2mT8W04lBH@73
+!s100 bzXIzcmS6zl491WQoEYRB2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1586466238
+!i10b 1
+Z9 !s108 1586466238.000000
+Z10 !s90 -reportprogress|300|cont.vhd|cont_tb.vhd|
+Z11 !s107 cont_tb.vhd|cont.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Acount
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 4QNF]@@9`2mT8W04lBH@73
+l21
+L20
+VoUTgZ:SWf42_99<R1WzTR0
+!s100 :D@cQ>d?lc32d5SE_U?6K1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Eparidade
+Z13 w1586563515
+R1
+R2
+R3
+Z14 dC:/Users/Tarcis Aurelio Beche/Desktop/BlueBlocksVHDL/paridade
+Z15 8paridade.vhd
+Z16 Fparidade.vhd
+l0
+L7
+VakJ;f`8GHPQ:cIMa`hVFi0
+!s100 iA>^Ge21OSl=nXYJKONZT1
+R7
+32
+Z17 !s110 1586570685
+!i10b 1
+Z18 !s108 1586570685.000000
+Z19 !s90 -reportprogress|300|paridade.vhd|testbench.vhd|
+Z20 !s107 testbench.vhd|paridade.vhd|
+!i113 1
+R12
+Acount
+R1
+R2
+R3
+Z21 DEx4 work 8 paridade 0 22 akJ;f`8GHPQ:cIMa`hVFi0
+l21
+L20
+Z22 V`Mdc>?1L7e8Oe6T?]7XSC2
+Z23 !s100 mG@aj14F[78G3M41d>8eI3
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+Etb
+Z24 w1586563349
+R1
+R2
+R3
+R14
+Z25 8testbench.vhd
+Z26 Ftestbench.vhd
+l0
+L8
+VAi?d>RQ0TKdJZ0NLYo6Y73
+!s100 <[b>94CbiETCe;_f;SM3=0
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+Astm
+R21
+R1
+R2
+R3
+Z27 DEx4 work 2 tb 0 22 Ai?d>RQ0TKdJZ0NLYo6Y73
+l21
+L13
+Z28 VZIILT67Qo5_6?S5;Y]5f:3
+Z29 !s100 ^7e4488ETj:NUS9hN_h472
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12

@@ -1,0 +1,134 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/users/tarci/Desktop/VHDL_projects/CircularQueue
+Ecircularqueue
+Z0 w1601316644
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 44
+Z4 dC:/Users/tarci/Desktop/VHDL_projects/CircularQueue
+Z5 8CircularQueue.vhd
+Z6 FCircularQueue.vhd
+l0
+L13 1
+VSjM>doV`]Y4CHYeJNUU2A2
+!s100 HLY?m32TNFXWb;XjIFnf_3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1601316791
+!i10b 1
+Z9 !s108 1601316790.000000
+Z10 !s90 -reportprogress|300|reg16.vhd|CircularQueue.vhd|testbench.vhd|
+Z11 !s107 testbench.vhd|CircularQueue.vhd|reg16.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+Z13 DEx4 work 5 reg16 0 22 9dYCNXJFThCg?<^eQ?lAb3
+R1
+R2
+R3
+Z14 DEx4 work 13 circularqueue 0 22 SjM>doV`]Y4CHYeJNUU2A2
+!i122 44
+l40
+L27 91
+Vn:ETX:BKQfoXbEXiKzHj<3
+!s100 ?1;7G?c2HCo1QkE9DLXE01
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ereg16
+Z15 w1595282566
+R2
+R3
+!i122 44
+R4
+Z16 8reg16.vhd
+Z17 Freg16.vhd
+l0
+L4 1
+V9dYCNXJFThCg?<^eQ?lAb3
+!s100 cBiR^]m`WlciPeTo3U]LV2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Areg16_beh
+R2
+R3
+R13
+!i122 44
+l16
+Z18 L14 15
+Z19 VAHbRNM^Lbm;N]7ohMj>c91
+Z20 !s100 Y4`o0[A7DBo2MS]9ZG8793
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Etb
+Z21 w1595942657
+R1
+R2
+R3
+!i122 44
+R4
+Z22 8testbench.vhd
+Z23 Ftestbench.vhd
+l0
+L14 1
+VPE?]2GnbVUXMYoFL41<C21
+!s100 a^If`NI^QIl`nfG5Yie@J1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R14
+R1
+R2
+R3
+Z24 DEx4 work 2 tb 0 22 PE?]2GnbVUXMYoFL41<C21
+!i122 44
+l28
+Z25 L17 48
+Z26 VMK6DVLG]KcjT76XDi;=^>2
+Z27 !s100 aR]_^mBGVJECJJ=dN=@S61
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12

@@ -1,0 +1,128 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Tarcis/Desktop/BlueBlocksVHDL/reg16
+Ereg
+Z1 w1586465658
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Tarcis Aurelio Beche/Desktop/BlueBlocksVHDL/reg
+Z6 8reg.vhd
+Z7 Freg.vhd
+l0
+L9
+VMQS?MIBz9WjlT=BACYmm>2
+!s100 aA:]BPgh=Sj^3o<5SdjLh3
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1586570870
+!i10b 1
+Z10 !s108 1586570870.000000
+Z11 !s90 -reportprogress|300|reg.vhd|testbench.vhd|
+Z12 !s107 testbench.vhd|reg.vhd|
+!i113 1
+Z13 tExplicit 1 CvgOpt 0
+Aregistration
+R2
+R3
+R4
+Z14 DEx4 work 3 reg 0 22 MQS?MIBz9WjlT=BACYmm>2
+l25
+L24
+Z15 V<z^KAhbi[`]eTz92PAMKX3
+Z16 !s100 =bJ8:LdXg3?F=;J?Naf5d2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Ereg16
+Z17 w1568584017
+R2
+R3
+R4
+R0
+Z18 8reg16.vhd
+Z19 Freg16.vhd
+l0
+L9
+V@moE>dKA0AIA^_;>Q_]`G2
+!s100 ;:OTBfCiGRRJSU3QLzjWH0
+R8
+32
+Z20 !s110 1568584171
+!i10b 1
+Z21 !s108 1568584171.000000
+Z22 !s90 -reportprogress|300|reg16.vhd|reg16TB.vhd|
+Z23 !s107 reg16TB.vhd|reg16.vhd|
+!i113 1
+R13
+Aregistration
+R2
+R3
+R4
+DEx4 work 5 reg16 0 22 @moE>dKA0AIA^_;>Q_]`G2
+l23
+L22
+VodO2e[joXB1@JLJ68PLA?3
+!s100 HM4b?RVW7KQNfb6?jzCVo0
+R8
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R13
+Etb
+Z24 w1586465729
+R2
+R3
+R4
+R5
+Z25 8testbench.vhd
+Z26 Ftestbench.vhd
+l0
+L10
+VfI=AP2QP:4;Fg_@`64IWZ2
+!s100 cE<SB9oCXMm4@DigDi0lR0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Astm
+R14
+R2
+R3
+R4
+Z27 DEx4 work 2 tb 0 22 fI=AP2QP:4;Fg_@`64IWZ2
+l24
+L15
+Z28 Vk8UQS;YQUD_]PRER[b>AN1
+Z29 !s100 <WIi73>]8`80[E^l=cWnP3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13

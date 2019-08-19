@@ -1,0 +1,15 @@
+
+State Machine - |de10_lite|fsm:animation|state
+Name state.fa state.f state.ef state.e state.de state.d state.cd state.c state.bc state.b state.ab state.a 
+state.a 0 0 0 0 0 0 0 0 0 0 0 0 
+state.ab 0 0 0 0 0 0 0 0 0 0 1 1 
+state.b 0 0 0 0 0 0 0 0 0 1 0 1 
+state.bc 0 0 0 0 0 0 0 0 1 0 0 1 
+state.c 0 0 0 0 0 0 0 1 0 0 0 1 
+state.cd 0 0 0 0 0 0 1 0 0 0 0 1 
+state.d 0 0 0 0 0 1 0 0 0 0 0 1 
+state.de 0 0 0 0 1 0 0 0 0 0 0 1 
+state.e 0 0 0 1 0 0 0 0 0 0 0 1 
+state.ef 0 0 1 0 0 0 0 0 0 0 0 1 
+state.f 0 1 0 0 0 0 0 0 0 0 0 1 
+state.fa 1 0 0 0 0 0 0 0 0 0 0 1 

@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Tarcis/Desktop/BlueBlocksVHDL/seven_segment_cntrl
+Eseven_segment_cntrl
+Z0 w1586570485
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Tarcis Aurelio Beche/Desktop/BlueBlocksVHDL/seven_segment_cntrl
+Z5 8seven_segment_cntrl.vhd
+Z6 Fseven_segment_cntrl.vhd
+l0
+L9
+VL`kUTPlL[Iod`beKL5_bg2
+!s100 nO<124l;clOzG9e4kcc8M0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1586570507
+!i10b 1
+Z9 !s108 1586570507.000000
+Z10 !s90 -reportprogress|300|seven_segment_cntrl.vhd|testbench.vhd|
+Z11 !s107 testbench.vhd|seven_segment_cntrl.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Acontrol
+R1
+R2
+R3
+Z13 DEx4 work 19 seven_segment_cntrl 0 22 L`kUTPlL[Iod`beKL5_bg2
+l31
+L30
+V:?S3XZdR8;b1gLVWHAoWJ2
+!s100 I;2`]A2iJ2OinJKI7Qzhd0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Etb
+Z14 w1586570387
+R1
+R2
+R3
+R4
+Z15 8testbench.vhd
+Z16 Ftestbench.vhd
+l0
+L7
+VXHV8I20FO<IUVMZffeh430
+!s100 GJDe8STne9AkdMEBKJ4aB0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Astm
+R13
+R1
+R2
+R3
+Z17 DEx4 work 2 tb 0 22 XHV8I20FO<IUVMZffeh430
+l26
+L12
+Z18 VH`EB=FTY;oZTNRAFW7SCC0
+Z19 !s100 SQ>n4HA89X@bhQ42SnL0Z2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12

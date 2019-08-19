@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 99993.704
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ADC_CLK_10'
+Slack : 49.844
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49999.743
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 99994.190
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ADC_CLK_10'
+Slack : 49.857
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49999.719
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 99997.521
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.211
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ADC_CLK_10'
+Slack : 49.532
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 49999.804
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,207 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Tarcis/Desktop/Eng_PLD/Multiplexador
+Emux_sel
+Z0 w1586568040
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Tarcis Aurelio Beche/Desktop/BlueBlocksVHDL/mux
+Z5 8mux_sel.vhd
+Z6 Fmux_sel.vhd
+l0
+L10
+V_;3NdY3Nl0nKmf@l[341W3
+!s100 n6@j><?cJ:jWjm^kCkV0g1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1586568156
+!i10b 1
+Z9 !s108 1586568156.000000
+Z10 !s90 -reportprogress|300|mux_when.vhd|mux_sel.vhd|testbench.vhd|
+Z11 !s107 testbench.vhd|mux_sel.vhd|mux_when.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Amux2
+R1
+R2
+R3
+DEx4 work 7 mux_sel 0 22 _;3NdY3Nl0nKmf@l[341W3
+l27
+L26
+VoCDU@Y[N:Bm_AGgA:5?7c3
+!s100 RRETnNJ;MV6lk6i0MHAjE2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Emux_when
+Z13 w1586568026
+R1
+R2
+R3
+R4
+Z14 8mux_when.vhd
+Z15 Fmux_when.vhd
+l0
+L8
+VnE4DcWma40L1H;<Rf`<k91
+!s100 gzl8Eb03Sc9dTh0ggS?aU2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Amux1
+R1
+R2
+R3
+DEx4 work 8 mux_when 0 22 nE4DcWma40L1H;<Rf`<k91
+l25
+L24
+VD@W`[b<4CNU>TkW_a@T0R3
+!s100 a>QfF^>0cGE@@<4BjTW2e1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Emuxwe
+Z16 w1584017775
+R1
+R2
+R3
+R4
+Z17 8muxWE.vhd
+Z18 FmuxWE.vhd
+l0
+L10
+Vogb4[b>J2c=3ESNzo2RUo3
+!s100 fkEEURHoY_cDc5?6EfA_N0
+R7
+32
+Z19 !s110 1585923987
+!i10b 1
+Z20 !s108 1585923987.000000
+Z21 !s90 -reportprogress|300|muxWE.vhd|muxWS.vhd|tb_mux.vhd|
+Z22 !s107 tb_mux.vhd|muxWS.vhd|muxWE.vhd|
+!i113 1
+R12
+Amux1
+R1
+R2
+R3
+Z23 DEx4 work 5 muxwe 0 22 ogb4[b>J2c=3ESNzo2RUo3
+l27
+L26
+Vo>1QTC>5_7C5;d4ZVV:Qj3
+!s100 FC=:dN<V7nX4>^]aUnz;h3
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+Emuxws
+R16
+R1
+R2
+R3
+R4
+Z24 8muxWS.vhd
+Z25 FmuxWS.vhd
+l0
+L10
+ViO?jKO<hdb<SJll1RPLhK3
+!s100 7fg00nR]Y0mBR8d0Y>oCT3
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+Amux2
+R1
+R2
+R3
+Z26 DEx4 work 5 muxws 0 22 iO?jKO<hdb<SJll1RPLhK3
+l27
+L26
+V8YQM01fe<Z<:co`Z<P_Ki2
+!s100 QQRSR:eXoWBXb2Eba=gk<1
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+Etb
+R16
+R1
+R2
+R3
+R4
+Z27 8testbench.vhd
+Z28 Ftestbench.vhd
+l0
+L10
+VfI=AP2QP:4;Fg_@`64IWZ2
+!s100 cE<SB9oCXMm4@DigDi0lR0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Astm
+R26
+R23
+R1
+R2
+R3
+Z29 DEx4 work 2 tb 0 22 fI=AP2QP:4;Fg_@`64IWZ2
+l24
+L15
+Z30 VT>>[3UJ2cHf3nQkV8bhdm2
+Z31 !s100 VX2QTJe`9MY0zSIBN^mUV3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12

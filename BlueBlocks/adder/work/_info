@@ -1,0 +1,94 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/run/user/1001/overlay/merged/workspaceSigasi/adder
+Eadder
+Z0 w1594062165
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z4 dC:/Users/tarci/Desktop/VHDL_projects/blueBlocks/adder
+Z5 8adder.vhd
+Z6 Fadder.vhd
+l0
+L5 1
+V5z=d=?5[5I7R<:7ag=m[m0
+!s100 GCMV_nWA]MDg5;`]6?:AL2
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1594925923
+!i10b 1
+Z9 !s108 1594925923.000000
+Z10 !s90 -reportprogress|300|adder.vhd|testbench.vhd|
+Z11 !s107 testbench.vhd|adder.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+Z13 DEx4 work 5 adder 0 22 5z=d=?5[5I7R<:7ag=m[m0
+!i122 0
+l19
+L17 5
+Z14 VzoodzmQKooNK1C[S^FNXO1
+Z15 !s100 o=>]deX]`R>K`Ud7<1YIU1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Etb_adder
+R0
+R1
+R2
+R3
+!i122 0
+R4
+Z16 8testbench.vhd
+Z17 Ftestbench.vhd
+l0
+L5 1
+VQ5Vi2@O;j4o`R1TT?k22]3
+!s100 ?[Fn<4<bzP5n0bI;1eTd02
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R13
+R1
+R2
+R3
+Z18 DEx4 work 8 tb_adder 0 22 Q5Vi2@O;j4o`R1TT?k22]3
+!i122 0
+l14
+L8 29
+Z19 V^[_4WE:Z;S2JjbB99Dzi@0
+Z20 !s100 3doa1QAceKJG9[NF88lnn1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
